@@ -8,7 +8,7 @@
   <h4>behold the retardation</h4>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sushi-ae&show_icons=true&theme=transparent"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi-ae&theme=transparent"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi-ae&layout=compact&theme=transparent"/>
 </details>
 </div>
