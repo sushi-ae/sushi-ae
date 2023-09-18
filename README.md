@@ -4,6 +4,7 @@
 <br>
 <details>
   <summary><b>other</b></summary>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sushi-ae"/>
 </details>
 </div>
