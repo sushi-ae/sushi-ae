@@ -5,6 +5,8 @@
 <details>
   <summary><b>other</b></summary>
   <br>
+  <h4>behold the retardation</h4>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sushi-ae&show_icons=true&theme=transparent"/>
 </details>
 </div>
