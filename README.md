@@ -9,6 +9,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sushi-ae&show_icons=true&theme=transparent"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi-ae&exclude_repo=imwithstupid,dotfiles,wood-dots,nixdots&layout=compact&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi-ae&hide=lua,nix&exclude_repo=imwithstupid,dotfiles,wood-dots,nixdots&layout=compact&theme=transparent"/>
 </details>
 </div>
