@@ -5,6 +5,9 @@
 <details>
   <summary><b>other</b></summary>
   <br>
+  <h4>my setup, thingy</h4>
+  <img src="https://github.com/frapdotbmp/imwithstupid/assets/118438453/acfec39c-1a67-42a2-a59d-5d793715cabd"/>
+  <br>
   <h4>behold the retardation</h4>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sushi-ae&show_icons=true&theme=transparent"/>
