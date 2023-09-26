@@ -6,7 +6,7 @@
   <summary><b>other</b></summary>
   <br>
   <h4>my setup, thingy</h4>
-  <img src="https://github.com/frapdotbmp/imwithstupid/assets/118438453/acfec39c-1a67-42a2-a59d-5d793715cabd"/>
+  <img src="https://github.com/sushi-ae/imwithstupid/assets/118438453/122eec57-7958-4f0b-90fe-50ecc57920e1"/>
   <br>
   <h4>behold the retardation</h4>
   <br>
